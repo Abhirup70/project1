@@ -1,6 +1,10 @@
 # Currency Converter API
 
-A simple yet powerful REST API for converting currencies using live exchange rates. Built with Python and FastAPI.
+A simple yet powerful REST API for converting currencies using live exchange rates. Built with Python and FastAPI. THIS API IS PUBLISHED PLEASE CHECK, CAN BE USED FOR YOUR OWN PROJECTS DIRECTLY FROM HERE.
+https://project1-axi2.onrender.com/convert
+and ADD ?from_currency=USD&to_currency=EUR&amount=100 to the end of base url. 
+
+Example: https://project1-axi2.onrender.com/convert?from_currency=USD&to_currency=EUR&amount=100
 
 ## Features
 
